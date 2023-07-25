@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e607f81d.css",
+    "main.js": "/react-portfolio/static/js/main.3bf96e63.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/IMG_1992.jpg": "/react-portfolio/static/media/IMG_1992.2eabc1b0b35c5c6e5fd9.jpg",
+    "static/media/logo-png.png": "/react-portfolio/static/media/logo-png.ff428a0fb644d0b6e88b.png",
+    "static/media/helvetica-neu.ttf": "/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/bcLogoSub.png": "/react-portfolio/static/media/bcLogoSub.92cdf685f9fcbf99511f.png",
+    "static/media/githubHover.png": "/react-portfolio/static/media/githubHover.1aec7902730a4d270bb9.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.68e95751e7de2d21348c.png",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/phpLogo.png": "/react-portfolio/static/media/phpLogo.1dcc3633b97652e00b40.png",
+    "static/media/java.png": "/react-portfolio/static/media/java.3ebabb2e5b4b2c6e46ce.png",
+    "static/media/linkedin-in.png": "/react-portfolio/static/media/linkedin-in.aab7f7ed19c60d3d2148.png",
+    "static/media/pythonLogo.png": "/react-portfolio/static/media/pythonLogo.ce82b7872943e6f4a016.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio/index.html",
+    "main.e607f81d.css.map": "/react-portfolio/static/css/main.e607f81d.css.map",
+    "main.3bf96e63.js.map": "/react-portfolio/static/js/main.3bf96e63.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e607f81d.css",
+    "static/js/main.3bf96e63.js"
+  ]
+}
